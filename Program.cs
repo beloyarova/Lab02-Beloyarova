@@ -1,4 +1,5 @@
-﻿using System.IO.Compression;
+﻿using System.Diagnostics;
+using System.IO.Compression;
 
 Console.WriteLine("Границы целочисленных типов");
 Console.WriteLine($"byte: {byte.MinValue} .. {byte.MaxValue}");
@@ -83,3 +84,29 @@ bool wasSuccessful = int.TryParse(booksInput, out int booksCount);
 
 Console.WriteLine($"Удалось преобразить: {wasSuccessful}");
 Console.WriteLine($"Значение переменной booksCount: {booksCount}");
+
+Console.WriteLine();
+Console.Write("Введите ваше имя и фамилию: ");
+string name = Console.ReadLine();
+
+Console.Write("Введите название группы: ");
+string group = Console.ReadLine();
+
+Console.Write("Введите год рождения: ");
+int age = int.Parse(Console.ReadLine());
+
+Console.Write("Ваш средний балл за прошлый семестр: ");
+double ball = double.Parse(Console.ReadLine());
+
+Console.Write("Ваша любимая буква алфавита: ");
+char favorite = Console.ReadLine()[0];
+
+bool good = ball >= 4.0;
+
+Console.WriteLine();
+Console.WriteLine("    Анкета    ");
+Console.WriteLine($"{name}, группа {group}");
+Console.WriteLine($"Год рождения: {age} (в 2030 будет {2030 - age} год)");
+Console.WriteLine($"Средний балл: {ball}");
+Console.WriteLine($"Балл >= 4.0: {good}");
+Console.WriteLine($"Любимая буква: {favorite}");
