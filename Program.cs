@@ -123,3 +123,14 @@ double weight = double.Parse(Console.ReadLine());
 double imt = weight / (height * height);
 
 Console.WriteLine($"ИМТ: {imt:F2}");
+
+Console.WriteLine();
+Console.Write("Введите вашу фамилию: ");
+string Surname = Console.ReadLine();
+
+Console.Write("Введите ваше имя: ");
+string Name = Console.ReadLine();
+
+char first_letter = Name[0];
+
+Console.WriteLine($"{Surname} {first_letter}.");
