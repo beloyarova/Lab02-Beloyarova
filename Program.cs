@@ -110,3 +110,16 @@ Console.WriteLine($"Год рождения: {age} (в 2030 будет {2030 - a
 Console.WriteLine($"Средний балл: {ball}");
 Console.WriteLine($"Балл >= 4.0: {good}");
 Console.WriteLine($"Любимая буква: {favorite}");
+
+Console.WriteLine();
+Console.WriteLine("    Калькулятор ИМТ    ");
+
+Console.Write("Введите ваш рост в метрах: ");
+double height = double.Parse(Console.ReadLine());
+
+Console.Write("Введите ваш вес в килограммах: ");
+double weight = double.Parse(Console.ReadLine());
+
+double imt = weight / (height * height);
+
+Console.WriteLine($"ИМТ: {imt:F2}");
