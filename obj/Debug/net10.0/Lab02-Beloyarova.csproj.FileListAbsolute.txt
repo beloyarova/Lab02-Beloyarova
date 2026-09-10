@@ -1,0 +1,14 @@
+C:\Users\beloa\Documents\Lab02-Beloyarova\bin\Debug\net10.0\Lab02-Beloyarova.exe
+C:\Users\beloa\Documents\Lab02-Beloyarova\bin\Debug\net10.0\Lab02-Beloyarova.deps.json
+C:\Users\beloa\Documents\Lab02-Beloyarova\bin\Debug\net10.0\Lab02-Beloyarova.runtimeconfig.json
+C:\Users\beloa\Documents\Lab02-Beloyarova\bin\Debug\net10.0\Lab02-Beloyarova.dll
+C:\Users\beloa\Documents\Lab02-Beloyarova\bin\Debug\net10.0\Lab02-Beloyarova.pdb
+C:\Users\beloa\Documents\Lab02-Beloyarova\obj\Debug\net10.0\Lab02-Beloyarova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beloa\Documents\Lab02-Beloyarova\obj\Debug\net10.0\Lab02-Beloyarova.AssemblyInfoInputs.cache
+C:\Users\beloa\Documents\Lab02-Beloyarova\obj\Debug\net10.0\Lab02-Beloyarova.AssemblyInfo.cs
+C:\Users\beloa\Documents\Lab02-Beloyarova\obj\Debug\net10.0\Lab02-Beloyarova.csproj.CoreCompileInputs.cache
+C:\Users\beloa\Documents\Lab02-Beloyarova\obj\Debug\net10.0\Lab02-Beloyarova.dll
+C:\Users\beloa\Documents\Lab02-Beloyarova\obj\Debug\net10.0\refint\Lab02-Beloyarova.dll
+C:\Users\beloa\Documents\Lab02-Beloyarova\obj\Debug\net10.0\Lab02-Beloyarova.pdb
+C:\Users\beloa\Documents\Lab02-Beloyarova\obj\Debug\net10.0\Lab02-Beloyarova.genruntimeconfig.cache
+C:\Users\beloa\Documents\Lab02-Beloyarova\obj\Debug\net10.0\ref\Lab02-Beloyarova.dll
