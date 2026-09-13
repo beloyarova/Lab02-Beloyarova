@@ -1,7 +1,4 @@
-﻿using System.Diagnostics;
-using System.IO.Compression;
-
-Console.WriteLine("Границы целочисленных типов");
+﻿Console.WriteLine("Границы целочисленных типов");
 Console.WriteLine($"byte: {byte.MinValue} .. {byte.MaxValue}");
 Console.WriteLine($"short: {byte.MinValue} .. {short.MaxValue}");
 Console.WriteLine($"int: {int.MinValue} .. {int.MaxValue}");
